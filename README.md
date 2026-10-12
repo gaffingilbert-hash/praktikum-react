@@ -13,4 +13,4 @@
 - Penghitung kehadiran dengan batas 0 sampai 30.
 - Daftar tugas: tambah, validasi input, tandai selesai, batalkan, hapus, dan filter Semua/Aktif/Selesai.
 
-Catatan: ganti `Isi NIM Anda` pada `src/App.jsx` dengan NIM sendiri. Nama dosen pada contoh juga dapat disesuaikan dengan data yang benar. Daftar tugas disimpan di state, jadi akan kembali ke data awal saat halaman dimuat ulang.
+
